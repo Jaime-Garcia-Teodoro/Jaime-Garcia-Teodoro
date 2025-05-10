@@ -16,7 +16,10 @@ I'm a data enthusiast with a strong background in data analytics. I enjoy solvin
 - **Analytics & BI**: Power BI, Excel, Pandas, NumPy
 - **Automation**: Task automation using VBA and Python
 
-## 📂 What you'll find here:
+## 📂 My projects: 
+- 📊 [Project 1: Excel Report Automation (VBA)](https://github.com/Jaime-Garcia-Teodoro/Project-1)
+
+## 🗃️ What you'll find here:
 This repository contains a mix of personal and professional projects. At the moment there are only VBA projects, but I will soon upload Python and Power BI projects:
 - VBA Macros
 - Python scripts for data analysis and automation - *Soon*
